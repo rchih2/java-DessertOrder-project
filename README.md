@@ -1,1 +1,2 @@
-<img width="1475" height="865" alt="image" src="https://github.com/user-attachments/assets/d78b9e8a-0dc4-4e1d-9775-8edf64e22c86" />Java Lab 
+<img width="1226" height="872" alt="image" src="https://github.com/user-attachments/assets/fc35d0ad-84d5-438d-ad97-728dd4bb7eb1" />
+gtalente Java Lab 甜點快速下單系統 
