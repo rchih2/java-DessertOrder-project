@@ -1,0 +1,8 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: elasticsearch
+  elasticsearch:
+    uris: http://localhost:9200
